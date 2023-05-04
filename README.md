@@ -18,6 +18,22 @@ Automated Hydroponics Rack is a system designed to manage and control a hydropon
 - Flask
 - Flask-Executor
 - Arduino with appropriate sensors and actuators
+- DFRobot EC10 (electrical conductivity) sensor
+- DFRobot PH sensor
+- DS18S20 (temperature) sensor
+- OneWire library for temperature sensor
+- EEPROM library for storing calibration data
+- Flow meter for monitoring water flow
+
+## Arduino Pin Connections
+
+- EC sensor: A1
+- PH sensor: A2
+- Flow meter: Digital pin 3 (interrupt pin)
+- Water level sensor 1: Digital pin 10
+- Water level sensor 2: Digital pin 11
+- Water level sensor 3: Digital pin 12
+- Temperature sensor: Digital pin 8
 
 ## Installation
 
@@ -33,7 +49,7 @@ Automated Hydroponics Rack is a system designed to manage and control a hydropon
    ```
    pip install -r requirements.txt
    ```
-4. Set up your Arduino with the required sensors and actuators, and upload the appropriate sketch.
+4. Set up your Arduino with the required sensors and actuators, and upload the provided Arduino sketch.
 
 5. Run the Flask app:
    ```
