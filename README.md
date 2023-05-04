@@ -23,7 +23,7 @@ Automated Hydroponics Rack is a system designed to manage and control a hydropon
 
 1. Clone this repository:
    ```
-   git clone https://github.com/username/automated-hydroponics-rack.git
+   git clone https://github.com/akandi9avish/Automated-Hydroponics-System-VT-IDC-2023
    ```
 2. Change to the repository directory:
    ```
