@@ -1,0 +1,494 @@
+//index.html for Automated Hydroponics Rack- IDC 2023
+// Author: Avish Kandi
+// Last Updated: 5/3/2023 - 4:00pm
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Arduino Data</title>
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+  <script>
+    function showInfo(infoText) {
+      alert(infoText);
+    }
+
+    // Update the water level display based on the sensor data
+    function updateWaterLevelDisplay(waterHigh, waterMid, waterLow) {
+      const waterLevelContainer = document.getElementById("water-level-container");
+
+      if (waterHigh) {
+        waterLevelContainer.style.height = "100%";
+        document.getElementById("wl1").textContent = "";
+        document.getElementById("wl2").textContent = "At 100%";
+        document.getElementById("wl3").textContent = "";
+      } else if (waterMid) {
+        waterLevelContainer.style.height = "50%";
+        document.getElementById("wl1").textContent = "";
+        document.getElementById("wl2").textContent = "Above 50%";
+        document.getElementById("wl3").textContent = "";
+      } else if (waterLow) {
+        waterLevelContainer.style.height = "25%";
+        document.getElementById("wl1").textContent = "";
+        document.getElementById("wl2").textContent = "Above 25%";
+        document.getElementById("wl3").textContent = "";
+      } else {
+        waterLevelContainer.style.height = "0%";
+        document.getElementById("wl1").textContent = "";
+        document.getElementById("wl2").textContent = "Below 25%";
+        document.getElementById("wl3").textContent = "";
+      }
+
+    }
+
+    function celsiusToFahrenheit(celsius) {
+      return (celsius * 9 / 5) + 32;
+    }
+
+
+    $(document).ready(function () {
+      // Fetch data from the server every 1000 milliseconds (1 second)
+      setInterval(function () {
+        const cacheBuster = new Date().getTime();
+        $.get('/data?_=' + cacheBuster, function (data) {
+          console.log('raw data:', data);
+          console.log('Parsed data:', JSON.parse(data));
+
+          const parseData = JSON.parse(data);
+
+          $('#ph').text(parseData.ph);
+          $('#ec').text(parseData.ec);
+          $('#temp').text(celsiusToFahrenheit(parseData.temp).toFixed(2) + "°F");
+          $('#wl1').text(parseData.waterHigh);
+          $('#wl2').text(parseData.waterMid);
+          $('#wl3').text(parseData.waterLow);
+          // Update the water level display
+          updateWaterLevelDisplay(waterHigh, waterMid, waterLow);
+        });
+      }, 1000);
+
+      // Handle the settings form submission
+      $('#settings-form').on('submit', function (event) {
+        event.preventDefault();
+
+        // Serialize the form data
+        const formData = $(this).serialize();
+
+        // Send a POST request to the server
+        $.post('/save-settings', formData, function (response) {
+          // You can handle the server response here (e.g., show a success message)
+          console.log(response);
+        });
+      });
+
+      // Start the system on button click
+      $("#start-system").on("click", function () {
+        $.get("/start-system", function () {
+          console.log("System started");
+        });
+      });
+
+      // Stop the system on button click
+      $("#stop-system").on("click", function () {
+        $.get("/stop-system", function () {
+          console.log("System stoped");
+        });
+      });
+
+      const socket = new WebSocket('ws://' + window.location.host + '/terminal-output');
+
+      socket.addEventListener('message', function (event) {
+        console.log('Terminal output:', event.data);
+        const terminalOutput = document.getElementById('terminal-output');
+        terminalOutput.textContent += event.data + '\n';
+        terminalOutput.scrollTop = terminalOutput.scrollHeight;
+      });
+
+
+
+      // Stop the system on button click
+      // Update the click event listener for the "snapshot-btn"
+      $("#snapshot-btn").on("click", function () {
+        $.get("/take-snapshot", function (response) {
+          if (response.filename) {
+            console.log("Snapshot taken:", response.filename);
+            // Set the img element src attribute to the snapshot URL
+            $("#snapshot-img").attr("src", "/snapshots/" + response.filename);
+          } else {
+            console.log("Error taking snapshot:", response.error);
+          }
+        });
+      });
+
+
+
+    });
+  </script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f8f8f8;
+      margin: 0;
+      padding: 0;
+    }
+
+    #container {
+      margin: 0 auto;
+      width: 80%;
+      max-width: 800px;
+      background-color: #fff;
+      border-radius: 10px;
+      padding: 20px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+      margin-top: 40px;
+    }
+
+    h1,
+    h2,
+    h3 {
+      text-align: center;
+      color: #333;
+      margin-bottom: 30px;
+    }
+
+    .sensor,
+    .system-health,
+    .setting-label {
+      font-weight: bold;
+      color: #444;
+      text-align: center;
+      font-size: 26px;
+      margin-bottom: 10px;
+    }
+
+    .setting {
+      width: 100%;
+      display: flex;
+      flex-wrap: nowrap;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 10px;
+    }
+
+
+    .sensor-label,
+    .health-label,
+    .setting input {
+      width: 100%;
+      font-size: 25px;
+      padding: 5px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+
+    .sensor-value,
+    .health-value {
+      font-size: 32px;
+      color: #444;
+    }
+
+    .info-button {
+      width: 40px;
+      /* fixed width */
+      height: 40px;
+      /* fixed height */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top: 10px;
+      cursor: pointer;
+      background-color: #4CAF50;
+      color: white;
+      font-size: 14px;
+      font-weight: bold;
+      padding: 5px 10px;
+      border: none;
+      border-radius: 5px;
+      box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+      transition: background-color 0.3s ease;
+    }
+
+    .info-button:hover {
+      background-color: #45a049;
+    }
+
+    #settings-form {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+
+
+    .settings-dropdown {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      cursor: pointer;
+      background-color: #4CAF50;
+      color: black;
+      font-size: 30px;
+      font-weight: bold;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      margin: 20px 0;
+      box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+      transition: background-color 0.3s ease;
+    }
+
+
+    .settings-dropdown:hover {
+      background-color: #45a049;
+    }
+
+    .settings-container {
+      display: none;
+    }
+
+    button {
+      background-color: #4CAF50;
+      color: black;
+      font-size: 25px;
+      font-weight: bold;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      margin: 20px 0;
+      box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+      transition: background-color 0.3s ease;
+    }
+
+    button:hover {
+      background-color: #45a049;
+    }
+
+    .button-wrapper {
+      text-align: center;
+    }
+
+    .control-button {
+      display: inline-block;
+      margin: 0 10px;
+    }
+
+    #control-buttons {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+
+
+    .water-level {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      align-items: center;
+      position: relative;
+      background-color: #f2f2f2;
+      border-radius: 5px;
+      padding: 10px;
+      margin-bottom: 20px;
+      height: 200px;
+      overflow: hidden;
+    }
+
+    .water-level-labels {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-between;
+      position: absolute;
+      right: 10px;
+      top: 10px;
+      bottom: 10px;
+    }
+
+    .water-level-label {
+      font-size: 40px;
+      color: #444;
+    }
+
+
+    #water-level-container {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background-color: #00ffff;
+      transition: height 1s;
+    }
+
+    .settings-dropdown-wrapper {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+      margin-bottom: 20px;
+    }
+
+    .terminal-window {
+      background-color: #000;
+      color: #fff;
+      padding: 10px;
+      height: 200px;
+      overflow-y: scroll;
+      margin-bottom: 20px;
+      white-space: pre-wrap;
+      border-radius: 5px;
+      box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    }
+
+    .terminal-label {
+      font-weight: bold;
+      color: #444;
+      font-size: 26px;
+      margin-bottom: 10px;
+      text-align: center;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="container">
+    <h1>Farm.io System Dashboard</h1>
+
+    <!-- Sensor data -->
+    <div id="sensor-data">
+      <h2>Sensor Data</h2>
+      <div class="sensor">
+        <div class="sensor-label">pH: <span id="ph"></span> (Normal: 5.5 - 6.5)</div>
+      </div>
+      <div class="sensor">
+        <div class="sensor-label">EC: <span id="ec"></span> (Normal: 80-120 mS/m)</div>
+      </div>
+      <div class="sensor">
+        <div class="sensor-label">Temperature: <span id="temp"></span> (Normal: 70 - 74°F)</div>
+      </div>
+
+      <h2>Water Level</h2>
+      <div class="sensor water-level">
+        <div id="water-level-container"></div>
+        <div class="water-level-labels">
+          <div class="water-level-label" id="wl1">Low</div>
+          <div class="water-level-label" id="wl2">Mid</div>
+          <div class="water-level-label" id="wl3">High</div>
+        </div>
+      </div>
+
+      <!-- Snapshot display -->
+      <div id="snapshot-display">
+        <h2>Snapshot</h2>
+        <img id="snapshot-img" src="" alt="Snapshot" style="width: 100%; max-height: 300px; object-fit: contain;">
+      </div>
+
+
+    </div>
+
+    <div id="terminal">
+      <h2 class="terminal-label">Terminal Output</h2>
+      <div id="terminal-output" class="terminal-window"></div>
+    </div>
+
+
+    <!-- Error notifications and system health -->
+    <div id="error-notifications">
+      <h2>System Health</h2>
+      <div class="system-health">
+        <div class="health-label">Status:</div>
+        <div class="health-value" id="system-status"></div>
+      </div>
+    </div>
+
+    <div id="control-buttons">
+      <button id="start-system" class="control-button">Start System</button>
+      <button id="stop-system" class="control-button">Stop System</button>
+      <button id="snapshot-btn" class="control-button">Take Snapshot</button>
+    </div>
+
+    <div class="settings-dropdown-wrapper">
+      <button id="settings-dropdown" class="settings-dropdown">Show/Hide Settings</button>
+    </div>
+    <div id="settings-container" class="settings-container">
+      <form id="settings-form" action="/save-settings" method="post">
+        <div style="width: 100%;">
+          <!-- ... existing form content ... -->
+          <div class="setting">
+            <div class="setting-label">Watering Frequency</div>
+            <input type="number" step="0.01" id="watering-Frequency" name="watering_Frequency">
+            <button type="button" class="info-button"
+              onclick="showInfo('Watering frequency determines how often the plants are watered. Enter a value in minutes.');">i</button>
+          </div>
+          <div class="setting">
+            <div class="setting-label">Watering Duration</div>
+            <input type="number" step="0.01" id="watering-Frequency" name="watering_Frequency">
+            <button type="button" class="info-button"
+              onclick="showInfo('Watering frequency determines how often the plants are watered. Enter a value in minutes.');">i</button>
+          </div>
+          <div class="setting">
+            <div class="setting-label">Grow Cycle Duration</div>
+            <input type="number" step="0.01" id="watering-Frequency" name="watering_Frequency">
+            <button type="button" class="info-button"
+              onclick="showInfo('Watering frequency determines how often the plants are watered. Enter a value in minutes.');">i</button>
+          </div>
+          <div class="setting">
+            <div class="setting-label">Upper PH</div>
+            <input type="number" step="0.01" id="watering-Frequency" name="watering_Frequency">
+            <button type="button" class="info-button"
+              onclick="showInfo('Watering frequency determines how often the plants are watered. Enter a value in minutes.');">i</button>
+          </div>
+          <div class="setting">
+            <div class="setting-label">Lower PH</div>
+            <input type="number" step="0.01" id="watering-Frequency" name="watering_Frequency">
+            <button type="button" class="info-button"
+              onclick="showInfo('Watering frequency determines how often the plants are watered. Enter a value in minutes.');">i</button>
+          </div>
+          <div class="setting">
+            <div class="setting-label">Upper EC</div>
+            <input type="number" step="0.01" id="watering-Frequency" name="watering_Frequency">
+            <button type="button" class="info-button"
+              onclick="showInfo('Watering frequency determines how often the plants are watered. Enter a value in minutes.');">i</button>
+          </div>
+          <div class="setting">
+            <div class="setting-label">Lower EC</div>
+            <input type="number" step="0.01" id="watering-Frequency" name="watering_Frequency">
+            <button type="button"
+              onclick="showInfo('Watering frequency determines how often the plants are watered. Enter a value in minutes.');">i</button>
+          </div>
+          <div class="setting">
+            <div class="setting-label">Lower Temp</div>
+            <input type="number" step="0.01" id="watering-Frequency" name="watering_Frequency">
+            <button type="button" class="info-button"
+              onclick="showInfo('Watering frequency determines how often the plants are watered. Enter a value in minutes.');">i</button>
+          </div>
+          <div class="setting">
+            <div class="setting-label">Nutrient Ratio</div>
+            <input type="number" step="0.01" id="watering-Frequency" name="watering_Frequency">
+            <button type="button" class="info-button"
+              onclick="showInfo('Watering frequency determines how often the plants are watered. Enter a value in minutes.');">i</button>
+          </div>
+          <div class="setting">
+            <div class="setting-label">Log Frequency</div>
+            <input type="number" step="0.01" id="watering-Frequency" name="watering_Frequency">
+            <button type="button" class="info-button"
+              onclick="showInfo('Watering frequency determines how often the plants are watered. Enter a value in minutes.');">i</button>
+          </div>
+          <div class="button-wrapper">
+            <button type="submit" class="control-button">Save Settings</button>
+          </div>
+      </form>
+    </div>
+  </div>
+  </div>
+
+
+  <script>
+    $(document).ready(function () {
+      $("#settings-dropdown").on("click", function () {
+        $("#settings-container").slideToggle();
+      });
+    });
+  </script>
+</body>
+
+</html>

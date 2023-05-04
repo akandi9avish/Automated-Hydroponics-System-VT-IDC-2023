@@ -1,0 +1,5 @@
+[2023-03-29 06:45:57] Opened Log File logs/2023-03-29_06-45-57_log.txt
+[2023-03-29 06:45:57] DATA: {'ph': 7.25, 'ec': 72.84, 'temp': 19.0, 'waterHigh': 0.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:45:57] Transitioned to filling mode
+[2023-03-29 06:46:02] DATA: {'ph': 5.71, 'ec': 89.78, 'temp': 18.94, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:46:02] ERROR: Flow meter disabled: Changing to freshwater watering
+[2023-03-29 06:46:02] ERROR: Flow meter disabled: Changing to freshwater watering
+[2023-03-29 06:46:02] END RUN

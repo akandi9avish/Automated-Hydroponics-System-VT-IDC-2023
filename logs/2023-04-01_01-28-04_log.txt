@@ -1,0 +1,17 @@
+[2023-04-01 01:28:04] Opened Log File logs/2023-04-01_01-28-04_log.txt
+[2023-04-01 01:28:20] DATA: {'ph': 5.88, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-01 01:28:23] ERROR: Water temperature low: Check heater
+[2023-04-01 01:28:23] ERROR: Water temperature low: Check heater
+[2023-04-01 01:28:23] DATA: {'ph': 5.85, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-01 01:28:26] ERROR: Water temperature low: Check heater
+[2023-04-01 01:28:26] ERROR: Water temperature low: Check heater
+[2023-04-01 01:28:26] DATA: {'ph': 5.88, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-01 01:28:29] ERROR: Water temperature low: Check heater
+[2023-04-01 01:28:29] ERROR: Water temperature low: Check heater
+[2023-04-01 01:28:29] DATA: {'ph': 5.88, 'ec': 84.89, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-01 01:28:32] ERROR: Water temperature low: Check heater
+[2023-04-01 01:28:32] ERROR: Water temperature low: Check heater
+[2023-04-01 01:28:32] DATA: {'ph': 5.88, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-01 01:28:35] ERROR: Water temperature low: Check heater
+[2023-04-01 01:28:35] ERROR: Water temperature low: Check heater
+[2023-04-01 01:28:35] DATA: {'ph': 5.88, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}

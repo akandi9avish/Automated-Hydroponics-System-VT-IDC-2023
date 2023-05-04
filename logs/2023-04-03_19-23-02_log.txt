@@ -1,0 +1,78 @@
+[2023-04-03 19:23:02] Opened Log File logs/2023-04-03_19-23-02_log.txt
+[2023-04-03 19:23:02] DATA: {'ph': 6.87, 'ec': -3.65, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:23:05] ERROR: Lost connection with temp probe: Check probe
+[2023-04-03 19:23:05] ERROR: Lost connection with temp probe: Check probe
+[2023-04-03 19:23:05] ERROR: Water temperature low: Check heater
+[2023-04-03 19:23:05] ERROR: Water temperature low: Check heater
+[2023-04-03 19:23:05] ERROR: EC out of range: changing to standby
+[2023-04-03 19:23:05] ERROR: EC out of range: changing to standby
+[2023-04-03 19:23:06] DATA: {'ph': 6.95, 'ec': -3.66, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:23:08] ERROR: Lost connection with temp probe: Check probe
+[2023-04-03 19:23:08] ERROR: Lost connection with temp probe: Check probe
+[2023-04-03 19:23:08] ERROR: Water temperature low: Check heater
+[2023-04-03 19:23:08] ERROR: Water temperature low: Check heater
+[2023-04-03 19:23:08] ERROR: EC out of range: changing to standby
+[2023-04-03 19:23:08] ERROR: EC out of range: changing to standby
+[2023-04-03 19:23:09] DATA: {'ph': 6.21, 'ec': -4.03, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:23:11] ERROR: Lost connection with temp probe: Check probe
+[2023-04-03 19:23:11] ERROR: Lost connection with temp probe: Check probe
+[2023-04-03 19:23:11] ERROR: Water temperature low: Check heater
+[2023-04-03 19:23:11] ERROR: Water temperature low: Check heater
+[2023-04-03 19:23:11] ERROR: EC out of range: changing to standby
+[2023-04-03 19:23:11] ERROR: EC out of range: changing to standby
+[2023-04-03 19:23:12] DATA: {'ph': 6.95, 'ec': -3.61, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:23:14] ERROR: Lost connection with temp probe: Check probe
+[2023-04-03 19:23:14] ERROR: Lost connection with temp probe: Check probe
+[2023-04-03 19:23:14] ERROR: Water temperature low: Check heater
+[2023-04-03 19:23:14] ERROR: Water temperature low: Check heater
+[2023-04-03 19:23:14] ERROR: EC out of range: changing to standby
+[2023-04-03 19:23:14] ERROR: EC out of range: changing to standby
+[2023-04-03 19:23:15] DATA: {'ph': 6.15, 'ec': -4.05, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:23:17] Transitioned to conditioning mode -- Written by logger
+[2023-04-03 19:23:18] DATA: {'ph': 7.14, 'ec': -3.6, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:23:22] DATA: {'ph': 6.95, 'ec': -3.68, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:23:25] DATA: {'ph': 6.18, 'ec': -4.02, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:23:28] DATA: {'ph': 7.01, 'ec': -3.66, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:23:31] DATA: {'ph': 6.35, 'ec': -4.01, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:23:34] DATA: {'ph': 7.17, 'ec': -3.58, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:23:37] DATA: {'ph': 6.9, 'ec': -3.66, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:23:40] DATA: {'ph': 6.35, 'ec': -4.01, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:23:43] DATA: {'ph': 7.03, 'ec': -3.65, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:23:46] DATA: {'ph': 6.18, 'ec': -4.03, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:23:49] DATA: {'ph': 7.17, 'ec': -3.61, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:23:52] DATA: {'ph': 6.7, 'ec': -3.82, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:23:55] DATA: {'ph': 7.2, 'ec': -3.54, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:23:58] DATA: {'ph': 6.92, 'ec': -3.65, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:24:01] DATA: {'ph': 6.84, 'ec': -3.71, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:24:04] DATA: {'ph': 6.92, 'ec': -3.72, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:24:07] DATA: {'ph': 6.7, 'ec': -3.77, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:24:10] DATA: {'ph': 7.03, 'ec': -3.62, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:24:13] DATA: {'ph': 7.2, 'ec': -3.58, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:24:16] DATA: {'ph': 6.9, 'ec': -3.73, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:24:19] DATA: {'ph': 7.12, 'ec': -3.56, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:24:22] DATA: {'ph': 6.79, 'ec': -3.74, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:24:25] DATA: {'ph': 7.01, 'ec': -3.62, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:24:27] Transitioned to standby mode -- Written by logger
+[2023-04-03 19:24:27] ERROR: Lost connection with temp probe: Check probe
+[2023-04-03 19:24:27] ERROR: Lost connection with temp probe: Check probe
+[2023-04-03 19:24:27] ERROR: Water temperature low: Check heater
+[2023-04-03 19:24:27] ERROR: Water temperature low: Check heater
+[2023-04-03 19:24:27] ERROR: EC out of range: changing to standby
+[2023-04-03 19:24:27] ERROR: EC out of range: changing to standby
+[2023-04-03 19:24:28] DATA: {'ph': 6.92, 'ec': -3.64, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:24:30] Transitioned to conditioning mode -- Written by logger
+[2023-04-03 19:24:31] DATA: {'ph': 7.25, 'ec': -3.54, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:24:34] DATA: {'ph': 6.95, 'ec': -3.64, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:24:37] DATA: {'ph': 6.51, 'ec': -3.85, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:24:40] DATA: {'ph': 7.06, 'ec': -3.65, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:24:43] DATA: {'ph': 6.29, 'ec': -4.04, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:24:46] DATA: {'ph': 7.03, 'ec': -3.62, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:24:49] DATA: {'ph': 6.26, 'ec': -4.01, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:24:52] DATA: {'ph': 7.23, 'ec': -3.59, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:24:55] DATA: {'ph': 6.54, 'ec': -3.94, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:24:58] DATA: {'ph': 7.28, 'ec': -3.49, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:25:01] DATA: {'ph': 7.06, 'ec': -3.59, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:25:04] DATA: {'ph': 6.43, 'ec': -3.94, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:25:07] DATA: {'ph': 7.12, 'ec': -3.59, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:25:10] DATA: {'ph': 6.48, 'ec': -3.95, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 19:25:16] DATA: {'ph': 6.37, 'ec': -3.99, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}

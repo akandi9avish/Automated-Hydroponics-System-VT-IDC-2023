@@ -1,0 +1,47 @@
+[2023-04-07 14:44:03] Opened Log File logs/2023-04-07_14-44-03_log.txt
+[2023-04-07 14:44:03] DATA: {'ph': 13.09, 'ec': 0.0, 'temp': 31.19, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:44:12] DATA: {'ph': 13.09, 'ec': 0.0, 'temp': 31.12, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:44:15] Transitioned to filling mode -- Written by logger
+[2023-04-07 14:44:16] DATA: {'ph': 13.11, 'ec': 0.0, 'temp': 31.12, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:44:19] DATA: {'ph': 13.09, 'ec': 0.0, 'temp': 31.12, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:44:22] DATA: {'ph': 13.11, 'ec': 0.0, 'temp': 31.12, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:44:25] DATA: {'ph': 13.11, 'ec': 0.0, 'temp': 31.12, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:44:28] DATA: {'ph': 13.11, 'ec': 0.0, 'temp': 31.12, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:44:31] DATA: {'ph': 13.11, 'ec': 0.0, 'temp': 31.12, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:44:34] DATA: {'ph': 13.11, 'ec': 0.0, 'temp': 31.06, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:44:37] DATA: {'ph': 13.09, 'ec': 0.0, 'temp': 31.12, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:44:40] DATA: {'ph': 13.09, 'ec': 0.0, 'temp': 31.06, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:44:43] DATA: {'ph': 13.11, 'ec': 0.0, 'temp': 31.06, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:44:46] DATA: {'ph': 13.11, 'ec': 0.0, 'temp': 31.06, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:44:49] DATA: {'ph': 13.09, 'ec': 0.0, 'temp': 31.06, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:44:52] DATA: {'ph': 13.09, 'ec': 0.0, 'temp': 31.06, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:44:55] DATA: {'ph': 13.09, 'ec': 0.0, 'temp': 31.06, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:44:58] DATA: {'ph': 13.09, 'ec': 0.0, 'temp': 31.06, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:45:01] DATA: {'ph': 13.11, 'ec': 0.0, 'temp': 31.06, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:45:04] DATA: {'ph': 13.09, 'ec': 0.0, 'temp': 31.06, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:45:07] DATA: {'ph': 13.11, 'ec': 0.0, 'temp': 31.0, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:45:10] DATA: {'ph': 13.11, 'ec': 0.0, 'temp': 31.0, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:45:13] DATA: {'ph': 13.09, 'ec': 0.0, 'temp': 31.0, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:45:16] DATA: {'ph': 13.14, 'ec': 0.0, 'temp': 31.0, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:45:19] DATA: {'ph': 13.06, 'ec': 0.0, 'temp': 31.0, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:45:22] DATA: {'ph': 13.09, 'ec': 0.0, 'temp': 31.0, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:45:25] DATA: {'ph': 13.06, 'ec': 0.0, 'temp': 31.0, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:45:28] DATA: {'ph': 13.09, 'ec': 0.0, 'temp': 31.0, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:45:31] DATA: {'ph': 13.09, 'ec': 0.0, 'temp': 31.0, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:45:34] DATA: {'ph': 13.11, 'ec': 0.0, 'temp': 30.94, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:45:37] DATA: {'ph': 13.09, 'ec': 0.0, 'temp': 30.87, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:45:40] DATA: {'ph': 13.11, 'ec': 0.0, 'temp': 30.87, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:45:43] DATA: {'ph': 13.14, 'ec': 0.0, 'temp': 30.81, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:45:46] DATA: {'ph': 13.09, 'ec': 0.0, 'temp': 30.81, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:45:49] DATA: {'ph': 13.09, 'ec': 0.0, 'temp': 30.81, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:45:52] DATA: {'ph': 13.11, 'ec': 0.0, 'temp': 30.81, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:45:55] DATA: {'ph': 13.11, 'ec': 0.0, 'temp': 30.81, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:45:58] DATA: {'ph': 13.11, 'ec': 0.0, 'temp': 30.81, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:46:01] DATA: {'ph': 13.11, 'ec': 0.0, 'temp': 30.81, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:46:04] DATA: {'ph': 13.09, 'ec': 0.0, 'temp': 30.81, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:46:07] DATA: {'ph': 13.14, 'ec': 0.0, 'temp': 30.81, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:46:10] DATA: {'ph': 13.09, 'ec': 0.0, 'temp': 30.81, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:46:13] DATA: {'ph': 13.11, 'ec': 0.0, 'temp': 30.81, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}
+[2023-04-07 14:46:15] ERROR: No fresh water: System Standby
+[2023-04-07 14:46:15] ERROR: No fresh water: System Standby
+[2023-04-07 14:46:15] END RUN

@@ -1,0 +1,2 @@
+[2023-04-07 14:50:27] Opened Log File logs/2023-04-07_14-50-27_log.txt
+[2023-04-07 14:50:28] DATA: {'ph': 13.09, 'ec': 0.0, 'temp': 31.69, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 0.0, 'flow': 0.0}

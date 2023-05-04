@@ -1,0 +1,93 @@
+[2023-04-20 19:26:41] Opened Log File logs/2023-04-20_19-26-41_log.txt
+[2023-04-20 19:26:41] DATA: {'ph': 9.21, 'ec': 7.61, 'temp': 27.37, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:26:44] ERROR: EC out of range: changing to standby
+[2023-04-20 19:26:44] ERROR: EC out of range: changing to standby
+[2023-04-20 19:26:45] DATA: {'ph': 9.21, 'ec': 7.2, 'temp': 27.37, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:26:47] ERROR: EC out of range: changing to standby
+[2023-04-20 19:26:47] ERROR: EC out of range: changing to standby
+[2023-04-20 19:26:48] DATA: {'ph': 9.21, 'ec': 7.41, 'temp': 27.37, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:26:50] ERROR: EC out of range: changing to standby
+[2023-04-20 19:26:50] ERROR: EC out of range: changing to standby
+[2023-04-20 19:26:51] DATA: {'ph': 9.18, 'ec': 7.61, 'temp': 27.37, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:26:53] ERROR: EC out of range: changing to standby
+[2023-04-20 19:26:53] ERROR: EC out of range: changing to standby
+[2023-04-20 19:26:54] DATA: {'ph': 9.21, 'ec': 7.41, 'temp': 27.37, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:26:56] ERROR: EC out of range: changing to standby
+[2023-04-20 19:26:56] ERROR: EC out of range: changing to standby
+[2023-04-20 19:26:57] DATA: {'ph': 9.18, 'ec': 7.61, 'temp': 27.37, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:26:59] ERROR: EC out of range: changing to standby
+[2023-04-20 19:26:59] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:00] DATA: {'ph': 9.18, 'ec': 7.61, 'temp': 27.37, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:27:02] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:02] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:03] DATA: {'ph': 9.15, 'ec': 7.61, 'temp': 27.37, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:27:05] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:05] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:06] DATA: {'ph': 9.18, 'ec': 8.03, 'temp': 27.37, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:27:08] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:08] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:09] DATA: {'ph': 9.18, 'ec': 7.82, 'temp': 27.37, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:27:11] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:11] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:12] DATA: {'ph': 9.12, 'ec': 7.82, 'temp': 27.37, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:27:14] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:14] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:15] DATA: {'ph': 9.1, 'ec': 7.82, 'temp': 27.37, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:27:17] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:17] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:18] DATA: {'ph': 9.1, 'ec': 7.82, 'temp': 27.37, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:27:20] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:20] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:21] DATA: {'ph': 9.15, 'ec': 7.61, 'temp': 27.37, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:27:23] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:23] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:24] DATA: {'ph': 7.56, 'ec': 8.23, 'temp': 27.37, 'waterHigh': 0.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:27:26] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:26] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:27] DATA: {'ph': 7.53, 'ec': 8.03, 'temp': 27.37, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:27:29] Transitioned to filling mode -- Written by logger
+[2023-04-20 19:27:29] ERROR: Flow meter disabled: Changing to freshwater watering
+[2023-04-20 19:27:29] ERROR: Flow meter disabled: Changing to freshwater watering
+[2023-04-20 19:27:30] DATA: {'ph': 9.04, 'ec': 7.82, 'temp': 27.37, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 181.0}
+[2023-04-20 19:27:32] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:32] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:33] DATA: {'ph': 7.56, 'ec': 8.03, 'temp': 27.37, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:27:35] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:35] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:36] DATA: {'ph': 7.39, 'ec': 8.23, 'temp': 27.37, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:27:38] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:38] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:39] DATA: {'ph': 9.21, 'ec': 7.82, 'temp': 27.37, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:27:41] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:41] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:42] DATA: {'ph': 9.18, 'ec': 7.82, 'temp': 27.37, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:27:44] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:44] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:45] DATA: {'ph': 9.15, 'ec': 7.82, 'temp': 27.37, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:27:47] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:47] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:48] DATA: {'ph': 9.12, 'ec': 7.82, 'temp': 27.37, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:27:50] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:50] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:51] DATA: {'ph': 9.12, 'ec': 7.61, 'temp': 27.37, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:27:53] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:53] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:54] DATA: {'ph': 9.07, 'ec': 7.61, 'temp': 27.37, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:27:56] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:56] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:57] DATA: {'ph': 9.12, 'ec': 7.82, 'temp': 27.37, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:27:59] ERROR: EC out of range: changing to standby
+[2023-04-20 19:27:59] ERROR: EC out of range: changing to standby
+[2023-04-20 19:28:00] DATA: {'ph': 9.1, 'ec': 7.61, 'temp': 27.37, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:28:02] ERROR: EC out of range: changing to standby
+[2023-04-20 19:28:02] ERROR: EC out of range: changing to standby
+[2023-04-20 19:28:03] DATA: {'ph': 9.07, 'ec': 7.61, 'temp': 27.37, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:28:05] ERROR: EC out of range: changing to standby
+[2023-04-20 19:28:05] ERROR: EC out of range: changing to standby
+[2023-04-20 19:28:06] DATA: {'ph': 9.04, 'ec': 7.82, 'temp': 27.37, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:28:08] ERROR: EC out of range: changing to standby
+[2023-04-20 19:28:08] ERROR: EC out of range: changing to standby
+[2023-04-20 19:28:09] DATA: {'ph': 9.04, 'ec': 7.82, 'temp': 27.37, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:28:11] ERROR: EC out of range: changing to standby
+[2023-04-20 19:28:11] ERROR: EC out of range: changing to standby
+[2023-04-20 19:28:12] DATA: {'ph': 8.99, 'ec': 7.82, 'temp': 27.37, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}

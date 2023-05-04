@@ -1,0 +1,5 @@
+[2023-03-29 06:25:14] Opened Log File logs/2023-03-29_06-25-14_log.txt
+[2023-03-29 06:25:14] DATA: {'ph': 5.52, 'ec': 91.24, 'temp': 19.19, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:25:14] Transitioned to filling mode
+[2023-03-29 06:25:19] DATA: {'ph': 5.55, 'ec': 91.24, 'temp': 19.19, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:25:24] ERROR: No fresh water: System Standby
+[2023-03-29 06:25:24] ERROR: No fresh water: System Standby
+[2023-03-29 06:25:24] END RUN

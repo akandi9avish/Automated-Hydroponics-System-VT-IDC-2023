@@ -1,0 +1,483 @@
+[2023-04-03 16:03:45] Opened Log File logs/2023-04-03_16-03-45_log.txt
+[2023-04-03 16:03:46] DATA: {'ph': 5.82, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:03:49] ERROR: Water temperature low: Check heater
+[2023-04-03 16:03:49] ERROR: Water temperature low: Check heater
+[2023-04-03 16:03:49] DATA: {'ph': 5.88, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:03:52] ERROR: Water temperature low: Check heater
+[2023-04-03 16:03:52] ERROR: Water temperature low: Check heater
+[2023-04-03 16:03:52] DATA: {'ph': 5.85, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:03:55] ERROR: Water temperature low: Check heater
+[2023-04-03 16:03:55] ERROR: Water temperature low: Check heater
+[2023-04-03 16:03:55] DATA: {'ph': 5.85, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:03:58] ERROR: Water temperature low: Check heater
+[2023-04-03 16:03:58] ERROR: Water temperature low: Check heater
+[2023-04-03 16:03:58] DATA: {'ph': 5.88, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:04:01] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:01] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:01] DATA: {'ph': 5.85, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:04:04] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:04] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:04] DATA: {'ph': 5.88, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:04:07] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:07] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:07] DATA: {'ph': 5.88, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:04:10] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:10] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:10] DATA: {'ph': 5.85, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:04:13] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:13] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:13] DATA: {'ph': 5.88, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:04:16] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:16] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:16] DATA: {'ph': 5.88, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:04:19] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:19] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:19] DATA: {'ph': 5.91, 'ec': 84.08, 'temp': 21.5, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:04:22] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:22] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:22] DATA: {'ph': 5.88, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:04:25] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:25] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:25] DATA: {'ph': 5.88, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:04:28] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:28] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:28] DATA: {'ph': 5.85, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:04:31] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:31] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:31] DATA: {'ph': 5.91, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:04:34] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:34] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:34] DATA: {'ph': 5.85, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:04:37] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:37] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:37] DATA: {'ph': 5.88, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:04:40] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:40] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:40] DATA: {'ph': 5.85, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:04:43] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:43] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:43] DATA: {'ph': 5.91, 'ec': 84.2, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:04:46] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:46] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:46] DATA: {'ph': 5.91, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:04:49] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:49] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:49] DATA: {'ph': 5.88, 'ec': 84.2, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:04:52] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:52] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:52] DATA: {'ph': 5.88, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:04:55] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:55] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:55] DATA: {'ph': 5.91, 'ec': 84.2, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:04:58] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:58] ERROR: Water temperature low: Check heater
+[2023-04-03 16:04:58] DATA: {'ph': 5.88, 'ec': 84.2, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:05:01] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:01] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:01] DATA: {'ph': 5.88, 'ec': 84.2, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:05:04] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:04] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:04] DATA: {'ph': 5.88, 'ec': 84.2, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:05:07] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:07] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:07] DATA: {'ph': 5.82, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:05:10] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:10] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:10] DATA: {'ph': 5.88, 'ec': 84.2, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:05:13] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:13] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:13] DATA: {'ph': 5.82, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:05:16] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:16] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:16] DATA: {'ph': 5.88, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:05:19] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:19] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:19] DATA: {'ph': 5.85, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:05:22] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:22] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:22] DATA: {'ph': 5.88, 'ec': 84.2, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:05:25] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:25] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:25] DATA: {'ph': 5.85, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:05:28] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:28] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:28] DATA: {'ph': 5.91, 'ec': 84.2, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:05:31] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:31] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:31] DATA: {'ph': 5.85, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:05:34] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:34] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:34] DATA: {'ph': 5.91, 'ec': 83.97, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:05:37] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:37] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:37] DATA: {'ph': 5.85, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:05:40] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:40] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:40] DATA: {'ph': 5.88, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:05:43] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:43] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:43] DATA: {'ph': 5.85, 'ec': 84.89, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:05:46] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:46] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:46] DATA: {'ph': 5.88, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:05:49] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:49] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:49] DATA: {'ph': 5.85, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:05:52] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:52] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:52] DATA: {'ph': 5.88, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:05:55] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:55] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:55] DATA: {'ph': 5.88, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:05:58] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:58] ERROR: Water temperature low: Check heater
+[2023-04-03 16:05:58] DATA: {'ph': 5.88, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:06:01] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:01] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:01] DATA: {'ph': 5.88, 'ec': 84.54, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:06:04] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:04] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:04] DATA: {'ph': 5.85, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:06:07] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:07] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:07] DATA: {'ph': 5.88, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:06:10] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:10] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:10] DATA: {'ph': 5.82, 'ec': 84.89, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:06:13] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:13] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:13] DATA: {'ph': 5.85, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:06:16] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:16] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:16] DATA: {'ph': 5.82, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:06:19] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:19] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:19] DATA: {'ph': 5.88, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:06:22] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:22] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:22] DATA: {'ph': 5.85, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:06:25] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:25] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:25] DATA: {'ph': 5.85, 'ec': 84.89, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:06:28] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:28] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:28] DATA: {'ph': 5.85, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:06:31] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:31] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:31] DATA: {'ph': 5.85, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:06:34] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:34] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:34] DATA: {'ph': 5.88, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:06:37] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:37] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:37] DATA: {'ph': 5.85, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:06:40] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:40] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:40] DATA: {'ph': 5.85, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:06:43] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:43] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:43] ERROR: EC out of range: changing to standby
+[2023-04-03 16:06:43] ERROR: EC out of range: changing to standby
+[2023-04-03 16:06:43] DATA: {'ph': 5.82, 'ec': 84.89, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:06:46] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:46] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:46] DATA: {'ph': 5.85, 'ec': 84.89, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:06:49] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:49] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:49] ERROR: EC out of range: changing to standby
+[2023-04-03 16:06:49] ERROR: EC out of range: changing to standby
+[2023-04-03 16:06:49] DATA: {'ph': 5.82, 'ec': 84.89, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:06:52] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:52] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:52] DATA: {'ph': 5.82, 'ec': 84.89, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:06:55] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:55] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:55] ERROR: EC out of range: changing to standby
+[2023-04-03 16:06:55] ERROR: EC out of range: changing to standby
+[2023-04-03 16:06:55] DATA: {'ph': 5.82, 'ec': 85.35, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:06:58] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:58] ERROR: Water temperature low: Check heater
+[2023-04-03 16:06:58] DATA: {'ph': 5.79, 'ec': 85.23, 'temp': 21.5, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:07:01] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:01] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:01] ERROR: EC out of range: changing to standby
+[2023-04-03 16:07:01] ERROR: EC out of range: changing to standby
+[2023-04-03 16:07:01] DATA: {'ph': 5.79, 'ec': 85.35, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:07:04] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:04] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:04] DATA: {'ph': 5.79, 'ec': 85.12, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:07:07] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:07] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:07] ERROR: EC out of range: changing to standby
+[2023-04-03 16:07:07] ERROR: EC out of range: changing to standby
+[2023-04-03 16:07:07] DATA: {'ph': 5.79, 'ec': 85.35, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:07:10] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:10] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:10] ERROR: EC out of range: changing to standby
+[2023-04-03 16:07:10] ERROR: EC out of range: changing to standby
+[2023-04-03 16:07:10] DATA: {'ph': 5.79, 'ec': 85.35, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:07:13] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:13] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:13] ERROR: EC out of range: changing to standby
+[2023-04-03 16:07:13] ERROR: EC out of range: changing to standby
+[2023-04-03 16:07:13] DATA: {'ph': 5.79, 'ec': 85.35, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:07:16] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:16] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:16] ERROR: EC out of range: changing to standby
+[2023-04-03 16:07:16] ERROR: EC out of range: changing to standby
+[2023-04-03 16:07:16] DATA: {'ph': 5.79, 'ec': 85.46, 'temp': 21.5, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:07:19] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:19] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:19] ERROR: EC out of range: changing to standby
+[2023-04-03 16:07:19] ERROR: EC out of range: changing to standby
+[2023-04-03 16:07:19] DATA: {'ph': 5.79, 'ec': 85.35, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:07:22] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:22] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:22] ERROR: EC out of range: changing to standby
+[2023-04-03 16:07:22] ERROR: EC out of range: changing to standby
+[2023-04-03 16:07:22] DATA: {'ph': 5.77, 'ec': 85.58, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:07:25] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:25] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:25] ERROR: EC out of range: changing to standby
+[2023-04-03 16:07:25] ERROR: EC out of range: changing to standby
+[2023-04-03 16:07:25] DATA: {'ph': 5.77, 'ec': 85.46, 'temp': 21.5, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:07:28] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:28] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:28] ERROR: EC out of range: changing to standby
+[2023-04-03 16:07:28] ERROR: EC out of range: changing to standby
+[2023-04-03 16:07:28] DATA: {'ph': 5.79, 'ec': 85.23, 'temp': 21.5, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:07:31] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:31] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:31] ERROR: EC out of range: changing to standby
+[2023-04-03 16:07:31] ERROR: EC out of range: changing to standby
+[2023-04-03 16:07:31] DATA: {'ph': 5.79, 'ec': 85.23, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:07:34] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:34] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:34] ERROR: EC out of range: changing to standby
+[2023-04-03 16:07:34] ERROR: EC out of range: changing to standby
+[2023-04-03 16:07:34] DATA: {'ph': 5.79, 'ec': 85.12, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:07:37] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:37] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:37] ERROR: EC out of range: changing to standby
+[2023-04-03 16:07:37] ERROR: EC out of range: changing to standby
+[2023-04-03 16:07:37] DATA: {'ph': 5.82, 'ec': 85.12, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:07:40] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:40] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:40] DATA: {'ph': 5.82, 'ec': 85.23, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:07:43] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:43] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:43] ERROR: EC out of range: changing to standby
+[2023-04-03 16:07:43] ERROR: EC out of range: changing to standby
+[2023-04-03 16:07:43] DATA: {'ph': 5.82, 'ec': 85.12, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:07:46] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:46] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:46] DATA: {'ph': 5.82, 'ec': 85.0, 'temp': 21.5, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:07:49] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:49] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:49] ERROR: EC out of range: changing to standby
+[2023-04-03 16:07:49] ERROR: EC out of range: changing to standby
+[2023-04-03 16:07:49] DATA: {'ph': 5.82, 'ec': 85.12, 'temp': 21.5, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:07:52] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:52] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:52] DATA: {'ph': 5.82, 'ec': 85.35, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:07:55] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:55] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:55] ERROR: EC out of range: changing to standby
+[2023-04-03 16:07:55] ERROR: EC out of range: changing to standby
+[2023-04-03 16:07:55] DATA: {'ph': 5.82, 'ec': 85.12, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:07:58] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:58] ERROR: Water temperature low: Check heater
+[2023-04-03 16:07:58] ERROR: EC out of range: changing to standby
+[2023-04-03 16:07:58] ERROR: EC out of range: changing to standby
+[2023-04-03 16:07:58] DATA: {'ph': 5.79, 'ec': 85.35, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:08:01] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:01] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:01] ERROR: EC out of range: changing to standby
+[2023-04-03 16:08:01] ERROR: EC out of range: changing to standby
+[2023-04-03 16:08:01] DATA: {'ph': 5.82, 'ec': 85.12, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:08:04] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:04] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:04] ERROR: EC out of range: changing to standby
+[2023-04-03 16:08:04] ERROR: EC out of range: changing to standby
+[2023-04-03 16:08:04] DATA: {'ph': 5.79, 'ec': 85.35, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:08:07] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:07] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:07] ERROR: EC out of range: changing to standby
+[2023-04-03 16:08:07] ERROR: EC out of range: changing to standby
+[2023-04-03 16:08:07] DATA: {'ph': 5.82, 'ec': 85.12, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:08:10] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:10] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:10] DATA: {'ph': 5.82, 'ec': 85.12, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:08:13] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:13] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:13] ERROR: EC out of range: changing to standby
+[2023-04-03 16:08:13] ERROR: EC out of range: changing to standby
+[2023-04-03 16:08:13] DATA: {'ph': 5.85, 'ec': 84.89, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:08:16] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:16] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:16] DATA: {'ph': 5.85, 'ec': 85.0, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:08:19] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:19] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:19] DATA: {'ph': 5.85, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:08:22] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:22] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:22] DATA: {'ph': 5.82, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:08:25] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:25] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:25] DATA: {'ph': 5.85, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:08:28] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:28] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:28] DATA: {'ph': 5.85, 'ec': 84.89, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:08:31] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:31] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:31] DATA: {'ph': 5.88, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:08:34] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:34] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:34] DATA: {'ph': 5.85, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:08:37] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:37] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:37] DATA: {'ph': 5.88, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:08:40] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:40] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:40] DATA: {'ph': 5.85, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:08:43] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:43] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:43] DATA: {'ph': 5.85, 'ec': 84.77, 'temp': 21.5, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:08:46] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:46] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:46] DATA: {'ph': 5.85, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:08:49] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:49] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:50] DATA: {'ph': 5.85, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:08:52] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:52] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:54] DATA: {'ph': 5.85, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:08:55] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:55] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:57] DATA: {'ph': 5.88, 'ec': 84.54, 'temp': 21.5, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:08:58] ERROR: Water temperature low: Check heater
+[2023-04-03 16:08:58] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:00] DATA: {'ph': 5.85, 'ec': 84.89, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:09:01] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:01] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:04] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:04] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:04] DATA: {'ph': 5.85, 'ec': 84.77, 'temp': 21.5, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:09:07] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:07] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:08] DATA: {'ph': 5.85, 'ec': 84.77, 'temp': 21.5, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:09:10] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:10] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:11] DATA: {'ph': 5.88, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:09:13] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:13] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:14] DATA: {'ph': 5.82, 'ec': 84.89, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:09:16] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:16] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:16] ERROR: EC out of range: changing to standby
+[2023-04-03 16:09:16] ERROR: EC out of range: changing to standby
+[2023-04-03 16:09:17] DATA: {'ph': 5.85, 'ec': 85.0, 'temp': 21.5, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:09:19] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:19] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:20] DATA: {'ph': 5.88, 'ec': 85.0, 'temp': 21.5, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:09:22] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:22] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:23] DATA: {'ph': 5.82, 'ec': 85.12, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:09:25] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:25] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:26] DATA: {'ph': 5.85, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:09:28] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:28] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:29] DATA: {'ph': 5.85, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:09:31] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:31] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:32] DATA: {'ph': 5.85, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:09:34] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:34] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:35] DATA: {'ph': 5.85, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:09:37] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:37] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:38] DATA: {'ph': 5.85, 'ec': 85.0, 'temp': 21.5, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:09:40] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:40] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:41] DATA: {'ph': 5.88, 'ec': 84.54, 'temp': 21.5, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:09:43] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:43] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:44] DATA: {'ph': 5.85, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:09:46] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:46] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:47] DATA: {'ph': 5.88, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:09:49] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:49] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:50] DATA: {'ph': 5.85, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:09:52] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:52] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:53] DATA: {'ph': 5.85, 'ec': 85.0, 'temp': 21.5, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:09:55] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:55] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:56] DATA: {'ph': 5.85, 'ec': 84.66, 'temp': 21.5, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:09:58] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:58] ERROR: Water temperature low: Check heater
+[2023-04-03 16:09:59] DATA: {'ph': 5.85, 'ec': 84.54, 'temp': 21.5, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:10:01] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:01] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:02] DATA: {'ph': 5.85, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:10:04] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:04] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:05] DATA: {'ph': 5.85, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:10:07] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:07] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:08] DATA: {'ph': 5.82, 'ec': 84.89, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:10:10] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:10] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:11] DATA: {'ph': 5.85, 'ec': 84.89, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:10:13] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:13] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:14] DATA: {'ph': 5.79, 'ec': 85.12, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:10:16] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:16] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:16] ERROR: EC out of range: changing to standby
+[2023-04-03 16:10:16] ERROR: EC out of range: changing to standby
+[2023-04-03 16:10:17] DATA: {'ph': 5.85, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:10:19] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:19] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:20] DATA: {'ph': 5.82, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:10:22] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:22] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:23] DATA: {'ph': 5.85, 'ec': 84.77, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:10:25] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:25] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:26] DATA: {'ph': 5.85, 'ec': 84.66, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:10:28] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:28] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:29] DATA: {'ph': 5.88, 'ec': 84.77, 'temp': 21.5, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:10:31] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:31] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:32] DATA: {'ph': 5.88, 'ec': 84.31, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:10:34] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:34] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:36] DATA: {'ph': 5.85, 'ec': 84.77, 'temp': 21.5, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:10:37] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:37] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:39] DATA: {'ph': 5.85, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:10:40] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:40] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:42] DATA: {'ph': 5.85, 'ec': 84.43, 'temp': 21.5, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:10:43] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:43] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:45] DATA: {'ph': 5.82, 'ec': 84.89, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:10:46] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:46] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:48] DATA: {'ph': 5.88, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:10:49] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:49] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:51] DATA: {'ph': 5.85, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:10:52] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:52] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:54] DATA: {'ph': 5.82, 'ec': 84.89, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:10:55] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:55] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:57] DATA: {'ph': 5.88, 'ec': 84.43, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-03 16:10:58] ERROR: Water temperature low: Check heater
+[2023-04-03 16:10:58] ERROR: Water temperature low: Check heater
+[2023-04-03 16:11:00] DATA: {'ph': 5.85, 'ec': 84.77, 'temp': 21.56, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}

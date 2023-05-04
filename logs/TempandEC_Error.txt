@@ -1,0 +1,266 @@
+[2023-03-29 06:54:08] Opened Log File logs/2023-03-29_06-54-08_log.txt
+[2023-03-29 06:54:09] DATA: {'ph': 7.31, 'ec': 71.87, 'temp': 18.94, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:54:10] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:10] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:11] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:11] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:12] DATA: {'ph': 5.79, 'ec': 89.29, 'temp': 18.94, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:54:12] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:12] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:13] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:13] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:14] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:14] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:15] DATA: {'ph': 7.17, 'ec': 74.05, 'temp': 18.94, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:54:15] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:15] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:16] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:16] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:17] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:17] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:18] DATA: {'ph': 6.87, 'ec': 76.47, 'temp': 18.94, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:54:18] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:18] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:19] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:19] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:20] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:20] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:21] DATA: {'ph': 5.99, 'ec': 87.11, 'temp': 18.94, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:54:21] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:21] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:22] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:22] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:23] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:23] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:24] DATA: {'ph': 7.25, 'ec': 72.35, 'temp': 18.94, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:54:24] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:24] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:25] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:25] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:26] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:26] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:27] DATA: {'ph': 6.21, 'ec': 84.69, 'temp': 18.94, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:54:27] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:27] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:28] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:28] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:29] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:29] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:30] DATA: {'ph': 7.42, 'ec': 70.66, 'temp': 18.94, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:54:30] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:30] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:31] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:31] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:32] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:32] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:33] DATA: {'ph': 6.29, 'ec': 83.97, 'temp': 18.94, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:54:33] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:33] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:34] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:34] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:35] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:35] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:36] DATA: {'ph': 7.17, 'ec': 73.32, 'temp': 18.94, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:54:36] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:36] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:37] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:37] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:38] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:38] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:39] DATA: {'ph': 5.93, 'ec': 87.84, 'temp': 18.94, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:54:39] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:39] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:40] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:40] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:41] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:41] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:42] DATA: {'ph': 7.28, 'ec': 71.87, 'temp': 18.94, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:54:42] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:42] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:43] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:43] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:44] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:44] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:45] DATA: {'ph': 6.15, 'ec': 85.18, 'temp': 18.94, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:54:45] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:45] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:46] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:46] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:47] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:47] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:48] DATA: {'ph': 7.42, 'ec': 70.9, 'temp': 18.94, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:54:48] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:48] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:49] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:49] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:50] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:50] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:51] DATA: {'ph': 6.35, 'ec': 83.24, 'temp': 18.94, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:54:51] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:51] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:52] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:52] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:53] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:53] ERROR: Water temperature low: Check heater
+[2023-03-29 06:54:54] DATA: {'ph': 7.09, 'ec': -3.68, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:54:54] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:54:54] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:54:55] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:54:55] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:54:56] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:54:56] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:54:57] DATA: {'ph': 5.96, 'ec': -4.31, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:54:57] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:54:57] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:54:58] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:54:58] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:54:59] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:54:59] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:00] DATA: {'ph': 7.25, 'ec': -3.58, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:55:00] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:00] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:01] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:01] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:02] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:02] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:03] DATA: {'ph': 6.21, 'ec': -4.2, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:55:03] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:03] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:04] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:04] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:05] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:05] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:06] DATA: {'ph': 7.39, 'ec': -3.52, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:55:06] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:06] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:07] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:07] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:08] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:08] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:09] DATA: {'ph': 6.02, 'ec': -4.29, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:55:09] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:09] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:10] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:10] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:11] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:11] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:12] DATA: {'ph': 7.25, 'ec': -3.56, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:55:12] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:12] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:13] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:13] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:14] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:14] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:15] DATA: {'ph': 5.99, 'ec': -4.29, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:55:15] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:15] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:16] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:16] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:17] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:17] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:18] DATA: {'ph': 7.45, 'ec': -3.49, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:55:18] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:18] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:19] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:19] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:20] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:20] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:21] DATA: {'ph': 6.26, 'ec': -4.16, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:55:21] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:21] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:22] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:22] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:23] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:23] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:24] DATA: {'ph': 7.45, 'ec': -3.47, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:55:24] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:24] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:25] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:25] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:26] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:26] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:27] DATA: {'ph': 5.93, 'ec': -4.33, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:55:27] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:27] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:28] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:28] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:29] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:29] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:30] DATA: {'ph': 7.34, 'ec': -3.52, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:55:30] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:30] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:31] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:31] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:32] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:32] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:33] DATA: {'ph': 6.02, 'ec': -4.27, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:55:33] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:33] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:34] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:34] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:35] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:35] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:36] DATA: {'ph': 7.39, 'ec': -3.52, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:55:36] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:36] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:37] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:37] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:38] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:38] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:39] DATA: {'ph': 6.51, 'ec': -3.99, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:55:39] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:39] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:40] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:40] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:41] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:41] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:42] DATA: {'ph': 7.39, 'ec': -3.53, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:55:42] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:42] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:43] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:43] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:44] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:44] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:45] DATA: {'ph': 6.24, 'ec': -4.19, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:55:45] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:45] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:46] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:46] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:47] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:47] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:48] DATA: {'ph': 6.79, 'ec': -3.82, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:55:48] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:48] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:49] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:49] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:50] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:50] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:51] DATA: {'ph': 6.54, 'ec': -3.97, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:55:51] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:51] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:52] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:52] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:53] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:53] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:54] DATA: {'ph': 6.81, 'ec': -3.82, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:55:54] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:54] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:55] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:55] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:56] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:56] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:57] DATA: {'ph': 7.12, 'ec': -3.64, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:55:57] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:57] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:58] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:58] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:59] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:55:59] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:00] DATA: {'ph': 6.81, 'ec': -3.82, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:56:00] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:00] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:01] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:01] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:02] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:02] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:03] DATA: {'ph': 6.76, 'ec': -3.91, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:56:03] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:03] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:04] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:04] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:05] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:05] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:06] DATA: {'ph': 6.37, 'ec': -4.1, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:56:06] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:06] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:07] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:07] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:08] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:08] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:09] DATA: {'ph': 6.76, 'ec': -3.9, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:56:09] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:09] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:10] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:10] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:11] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:11] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:12] DATA: {'ph': 6.95, 'ec': -3.73, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:56:12] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:12] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:13] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:13] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:14] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:14] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:15] DATA: {'ph': 6.48, 'ec': -4.04, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:56:15] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:15] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:16] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:16] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:17] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:17] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:18] DATA: {'ph': 7.03, 'ec': -3.68, 'temp': -1000.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:56:18] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:18] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:19] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:19] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:20] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:20] ERROR: Lost connection with temp probe: Check probe
+[2023-03-29 06:56:21] DATA: {'ph': 6.29, 'ec': -4.13, 'temp': 85.0, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 06:56:21] ERROR: EC out of range: changing to standby
+[2023-03-29 06:56:21] ERROR: EC out of range: changing to standby
+[2023-03-29 06:56:21] END RUN

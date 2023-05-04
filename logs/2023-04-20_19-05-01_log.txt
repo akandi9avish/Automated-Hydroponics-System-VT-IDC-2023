@@ -1,0 +1,18 @@
+[2023-04-20 19:05:01] Opened Log File logs/2023-04-20_19-05-01_log.txt
+[2023-04-20 19:05:02] DATA: {'ph': 9.65, 'ec': 48.45, 'temp': 27.75, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:05:12] DATA: {'ph': 9.65, 'ec': 48.45, 'temp': 27.75, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:05:15] Transitioned to filling mode -- Written by logger
+[2023-04-20 19:05:16] DATA: {'ph': 9.62, 'ec': 48.45, 'temp': 27.75, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:05:19] DATA: {'ph': 9.7, 'ec': 48.3, 'temp': 27.69, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:05:22] DATA: {'ph': 9.65, 'ec': 48.45, 'temp': 27.75, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:05:25] DATA: {'ph': 9.76, 'ec': 48.04, 'temp': 27.69, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:05:28] DATA: {'ph': 9.81, 'ec': 48.04, 'temp': 27.75, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:05:31] DATA: {'ph': 9.87, 'ec': 47.43, 'temp': 27.75, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:05:34] DATA: {'ph': 9.92, 'ec': 46.82, 'temp': 27.75, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:05:37] DATA: {'ph': 9.98, 'ec': 46.77, 'temp': 27.81, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:05:40] DATA: {'ph': 10.03, 'ec': 46.15, 'temp': 27.81, 'waterHigh': 0.0, 'waterMid': 0.0, 'waterLow': 1.0, 'flow': 0.0}
+[2023-04-20 19:11:22] ERROR: No fresh water: System Standby
+[2023-04-20 19:11:22] ERROR: No fresh water: System Standby
+[2023-04-20 19:11:22] ERROR: Lost Connection with Arduino: System Standby
+[2023-04-20 19:11:22] ERROR: Lost Connection with Arduino: System Standby
+[2023-04-20 19:11:22] END RUN

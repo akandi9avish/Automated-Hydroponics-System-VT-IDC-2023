@@ -1,0 +1,4 @@
+[2023-03-29 07:09:56] Opened Log File logs/2023-03-29_07-09-56_log.txt
+[2023-03-29 07:10:25] DATA: {'ph': 7.31, 'ec': 72.35, 'temp': 18.87, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 07:10:56] DATA: {'ph': 7.28, 'ec': 72.69, 'temp': 18.87, 'waterHigh': 1.0, 'waterMid': 1.0, 'waterLow': 1.0, 'flow': 0.0}[2023-03-29 07:11:26] ERROR: Lost Connection with Arduino: System Standby
+[2023-03-29 07:11:26] ERROR: Lost Connection with Arduino: System Standby
+[2023-03-29 07:11:26] END RUN
