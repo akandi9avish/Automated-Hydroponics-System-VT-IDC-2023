@@ -1,0 +1,3 @@
+Flask==1.1.2
+Flask-Executor==0.9.4
+fswebcam==0.2.0
